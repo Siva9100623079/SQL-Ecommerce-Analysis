@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,iPhone 14,Electronics,75000
+102,Samsung Galaxy,Electronics,55000
+103,MacBook Air,Electronics,95000
+104,Nike Shoes,Fashion,6000
+105,T-shirt,Fashion,1200
+106,Washing Machine,Home Appliances,30000
+107,Refrigerator,Home Appliances,45000
+108,Wrist Watch,Fashion,8000
+109,Headphones,Electronics,5000
+110,Backpack,Fashion,2500
