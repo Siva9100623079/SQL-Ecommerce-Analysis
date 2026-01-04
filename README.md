@@ -1,6 +1,6 @@
-# **📊 SQL Project – E-commerce Sales Analysis**
+# ** SQL Project – E-commerce Sales Analysis**
 
-📅 Date: [August, 2025]
+ Date: [August, 2025]
 
 --- 
 
