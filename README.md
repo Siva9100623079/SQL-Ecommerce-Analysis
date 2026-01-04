@@ -36,7 +36,7 @@ The goal is to demonstrate advanced SQL skills such as **joins, aggregations, CT
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 -  **Top Customers: Ava Sharma, Ananya Iyer, and Rahul Mehta are the highest spenders.**
 -  **Top Cities: Mumbai and Delhi generate the most revenue overall.**
 -  **Sales Trends: Daily sales are steady with cumulative revenue showing consistent growth.**
